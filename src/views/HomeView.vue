@@ -18,7 +18,8 @@ export default {
   height: 25%;
   width: 25%;
   border-radius: 50%;
-  border-style: solid;
+  border-style: solid; 
+  border-width: 8px;
 }
 
 h1, h2 {  
