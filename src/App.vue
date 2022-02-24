@@ -1,7 +1,7 @@
 <template>
   <div id="app">    
     <nav>
-      <router-link to="/" >Home</router-link> |
+      <router-link to="/">Home 1</router-link> |
       <router-link to="/portfolio">Portfolio</router-link> |
       <router-link to="/contact">Contact</router-link>
     </nav>
@@ -33,10 +33,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;  
-}
-
-router-link {
-    text-decoration: none;
 }
 
 .body-wrap {
