@@ -23,7 +23,7 @@ body {
   font-weight: 400;
   color: #4f5d6e;
   position: relative;  
-  background: linear-gradient(to bottom, #8766c4 , #b19cd9);  
+  background: linear-gradient(to right, #8766c4 , #b19cd9);  
 }
 
 #app {
@@ -35,9 +35,11 @@ body {
 }
 
 nav {
-  padding: 30px;
+  padding: 20px;
   font-size: x-large;  
   margin-bottom: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
   box-shadow: 5px 4px 5px #000;
   background-color: #b19cd9;  
 }
@@ -46,8 +48,7 @@ nav a {
   font-weight: bold;
   color: #2c3e50;
   text-decoration: none;
-  font-size: medium;
-  /* box-shadow: 5px 4px 5px #000; */
+  font-size: medium;  
   padding: 10px;
   margin: 10px;
 }
