@@ -38,8 +38,6 @@ nav {
   padding: 20px;
   font-size: x-large;  
   margin-bottom: 50px;
-  margin-left: 10%;
-  margin-right: 10%;
   box-shadow: 5px 4px 5px #000;
   background-color: #b19cd9;  
 }
