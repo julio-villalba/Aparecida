@@ -23,8 +23,7 @@ body {
   font-weight: 400;
   color: #4f5d6e;
   position: relative;  
-  background: linear-gradient(to right, #8766c4 , #b19cd9);
-  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#1a315f', endColorstr='#1a315f', GradientType=0);
+  background: linear-gradient(to bottom, #8766c4 , #b19cd9);  
 }
 
 #app {
@@ -48,7 +47,7 @@ nav a {
   color: #2c3e50;
   text-decoration: none;
   font-size: medium;
-  box-shadow: 5px 4px 5px #000;
+  /* box-shadow: 5px 4px 5px #000; */
   padding: 10px;
   margin: 10px;
 }
