@@ -81,7 +81,7 @@ body {
 
 nav {
   padding: 30px;
-  font-size: xx-large;  
+  font-size: x-large;  
   margin-bottom: 50px;
   box-shadow: 5px 4px 5px #000;
   background-color: #b19cd9;

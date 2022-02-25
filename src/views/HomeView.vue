@@ -16,8 +16,8 @@ export default {
 
 <style>
 .foto {
-  height: 25%;
-  width: 25%;
+  height:30%;
+  width: 30%;
   border-radius: 50%;
   border-style: solid; 
   border-width: 5px;
