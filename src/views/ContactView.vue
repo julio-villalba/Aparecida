@@ -1,7 +1,7 @@
 <template>
   <div class="contact">     
       <div>
-        <ul class="lista">
+        <ul>
             <li>
             <a href="https://linktr.ee/aparecidamiranda" ><i class="fa-brands fa-whatsapp fa-2xl"></i></a>
           </li>          

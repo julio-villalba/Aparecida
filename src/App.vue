@@ -1,9 +1,9 @@
 <template>
   <div id="app">    
-    <nav>
-      <router-link to="/">Principal</router-link> |
-      <router-link to="/portfolio">Portfólio</router-link> |
-      <router-link to="/contact">Contatos</router-link>
+    <nav>     
+      <router-link to="/">Principal</router-link> 
+      <router-link to="/portfolio">Portifólio</router-link> 
+      <router-link to="/contact">Contatos</router-link> 
     </nav>
     <router-view />
   </div>
@@ -40,15 +40,21 @@ nav {
   font-size: x-large;  
   margin-bottom: 50px;
   box-shadow: 5px 4px 5px #000;
-  background-color: #b19cd9;
+  background-color: #b19cd9;  
 }
 
 nav a {
   font-weight: bold;
   color: #2c3e50;
+  text-decoration: none;
+  font-size: medium;
+  box-shadow: 5px 4px 5px #000;
+  padding: 10px;
+  margin: 10px;
 }
 
 nav a.router-link-exact-active {
   color: #8766c4;
 }
+
 </style>
