@@ -23,8 +23,16 @@ export default {
   border-width: 5px;
 }
 
-h1, h2 {  
+h1, h2, h3 {  
   font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+h2, h3 {
+  font-size: medium;
 }
 
 </style>
