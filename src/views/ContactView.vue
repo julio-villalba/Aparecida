@@ -1,27 +1,37 @@
 <template>
-  <div class="contact">   
-  <img class="img" src="../assets/pagina-em-construcao.png" />
-  <h1>Em construção</h1>
-  <!-- <section id="contact">
-  <div class="container">
-    <div class="row">      
-      <div class="col-lg-12 text-center">        
-        <ul class="list-inline text-center">
-          <li>
-            <a href="#" class="btn-social btn-outline wow lightSpeedIn"><i class="fa fa-fw fa-facebook"></i></a>
+  <div class="contact">     
+      <div>
+        <ul class="lista">
+            <li>
+            <a href="https://linktr.ee/aparecidamiranda" ><i class="fa-brands fa-whatsapp fa-2xl"> (21) 97734-5531</i></a>
           </li>          
           <li>
-            <a href="#" class="btn-social btn-outline wow lightSpeedIn"><i class="fa fa-fw fa-linkedin"></i></a>
+            <a href="#" ><i class="fa-brands fa-linkedin fa-2xl"></i></a>
           </li>
           <li>
-            <a href="#" class="btn-social btn-outline wow lightSpeedIn"><i class="fa fa-fw fa-envelope"></i></a>
+            <a href="#" ><i class="fa-brands fa-instagram fa-2xl"></i></a>
           </li>
+          <li>
+            <a href="#" ><i class="fa-solid fa-envelope fa-2xl"></i></a>
+          </li>
+          <li>
+            <a href="#" ><i class="fa-brands fa-facebook fa-2xl"></i></a>              
+          </li>            
         </ul>
       </div>
-    </div>
-  </div>
-</section> -->
-
-
   </div>
 </template>
+
+<style>
+
+ ul {
+  list-style: none;
+}
+
+li {    
+  margin: 5px;
+  padding: 15px;
+  font-size: medium;
+}
+
+</style>
