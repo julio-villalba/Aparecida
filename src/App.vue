@@ -57,4 +57,9 @@ h1, h2 {
   font-family: 'Courier New', Courier, monospace;
 }
 
+
+h2 {
+  font-size: medium;
+}
+
 </style>
