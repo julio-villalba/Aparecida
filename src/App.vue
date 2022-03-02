@@ -35,9 +35,8 @@ body {
 }
 
 nav {
-  padding: 20px;
-  /* font-size: x-large;   */
-  margin-bottom: 50px;
+  padding: 20px;  
+  margin-bottom: 30px;
   box-shadow: 5px 4px 5px #000;
   background-color: #b19cd9;  
 }
@@ -45,8 +44,7 @@ nav {
 nav a {
   font-weight: bold;
   color: #2c3e50;
-  text-decoration: none;
-  /* font-size: medium;   */
+  text-decoration: none;  
   padding: 10px;
   margin: 10px;
 }
@@ -54,5 +52,18 @@ nav a {
 nav a.router-link-exact-active {
   color: #8766c4;
 }
+
+h1, h2, h3 {  
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+h2, h3 {
+  font-size: medium;
+}
+
 
 </style>

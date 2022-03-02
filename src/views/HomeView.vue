@@ -2,8 +2,8 @@
   <div class="home">    
     <img class="foto" src="../assets/foto.jpg" />
     <h1>Aparecida Miranda</h1>
-    <h2>Psicóloga Clínica e Esportiva</h2>    
-    <h3>CRP 05/42778</h3>
+    <h2>Pedagoga e Psicóloga Clínica e Esportiva</h2>    
+    <h2>CRP 05/42778</h2>
   </div>
 </template>
 
@@ -19,18 +19,6 @@ export default {
   height:30%;
   width: 30%;
   border-radius: 50%;
-}
-
-h1, h2, h3 {  
-  font-family: 'Courier New', Courier, monospace;
-}
-
-h1 {
-  font-size: xx-large;
-}
-
-h2, h3 {
-  font-size: medium;
 }
 
 </style>
