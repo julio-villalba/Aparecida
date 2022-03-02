@@ -6,16 +6,16 @@
             <a href="https://linktr.ee/aparecidamiranda" target="_blank"><i class="fa-brands fa-whatsapp fa-2xl"></i></a>
           </li>          
           <li>
-            <a href="#" target="_blank"><i class="fa-solid fa-envelope fa-2xl"></i></a>            
+            <a href="#" ><i class="fa-solid fa-envelope fa-2xl"></i></a>            
           </li>
           <li>
-            <a href="#" target="_blank"><i class="fa-brands fa-instagram fa-2xl"></i></a>
+            <a href="#" ><i class="fa-brands fa-instagram fa-2xl"></i></a>
           </li>
           <li>
-            <a href="#" target="_blank"><i class="fa-brands fa-linkedin fa-2xl"></i></a>
+            <a href="#" ><i class="fa-brands fa-linkedin fa-2xl"></i></a>
           </li>
           <li>
-            <a href="#" target="_blank"><i class="fa-brands fa-facebook fa-2xl"></i></a>              
+            <a href="#" ><i class="fa-brands fa-facebook fa-2xl"></i></a>              
           </li>            
         </ul>
       </div>
