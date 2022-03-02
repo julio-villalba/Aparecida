@@ -53,17 +53,8 @@ nav a.router-link-exact-active {
   color: #8766c4;
 }
 
-h1, h2, h3 {  
+h1, h2 {  
   font-family: 'Courier New', Courier, monospace;
 }
-
-h1 {
-  font-size: xx-large;
-}
-
-h2, h3 {
-  font-size: medium;
-}
-
 
 </style>

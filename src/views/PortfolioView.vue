@@ -39,12 +39,12 @@
 }
 
 h1, h2 {
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
-.lista-portfolio {
-  margin: 30px auto;
+.lista-portfolio {  
   text-align: left; 
+  margin-left: 10px;
 }
 
 .item-lista-portfolio {
