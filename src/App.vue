@@ -2,7 +2,7 @@
   <div id="app">    
     <nav>     
       <router-link to="/">Principal</router-link> 
-      <router-link to="/portfolio">Portifólio</router-link> 
+      <router-link to="/portfolio">Sobre</router-link> 
       <router-link to="/contact">Contatos</router-link> 
     </nav>
     <router-view />
@@ -36,7 +36,7 @@ body {
 
 nav {
   padding: 20px;
-  font-size: x-large;  
+  /* font-size: x-large;   */
   margin-bottom: 50px;
   box-shadow: 5px 4px 5px #000;
   background-color: #b19cd9;  
@@ -46,7 +46,7 @@ nav a {
   font-weight: bold;
   color: #2c3e50;
   text-decoration: none;
-  font-size: medium;  
+  /* font-size: medium;   */
   padding: 10px;
   margin: 10px;
 }

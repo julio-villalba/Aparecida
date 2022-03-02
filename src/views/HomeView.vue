@@ -19,8 +19,6 @@ export default {
   height:30%;
   width: 30%;
   border-radius: 50%;
-  border-style: solid; 
-  border-width: 5px;
 }
 
 h1, h2, h3 {  
