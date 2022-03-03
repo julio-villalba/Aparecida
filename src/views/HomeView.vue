@@ -1,9 +1,11 @@
 <template>
-  <div class="home">    
-    <img class="foto" src="../assets/foto.jpg" />
-    <h1>Aparecida Miranda</h1>
-    <h2>Pedagoga e Psicóloga Clínica e Esportiva</h2>    
-    <h2>CRP 05/42778</h2>
+  <div class="home"> 
+    <div>
+      <img class="foto" src="../assets/foto.jpg" />
+    </div> 
+    <div>
+      <img class="logo" src="../assets/logo.png" />
+    </div>
   </div>
 </template>
 
@@ -16,9 +18,14 @@ export default {
 
 <style>
 .foto {
-  height:30%;
-  width: 30%;
+  height: 20%;
+  width: 20%;
   border-radius: 50%;
+}
+
+.logo {
+  height: 70%;
+  width: 70%;  
 }
 
 </style>
