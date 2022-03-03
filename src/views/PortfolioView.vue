@@ -1,7 +1,5 @@
 <template>
-  <div class="portfolio">    
-    <!-- <img class="img" src="../assets/pagina-em-construcao.png" />
-    <h1>Em construção</h1> -->
+  <div class="portfolio">        
     <h1>Aparecida Miranda</h1> 
     <h2>Pedagoga e Psicóloga Clínica e Esportiva</h2>
     <h2> CRP 05/42778</h2>
@@ -29,11 +27,6 @@
 </template>
 
 <style>
-/* .img {
-  height: 30%;
-  width: 30%; 
-} */
-
 .portfolio {  
   text-align: left;
 }

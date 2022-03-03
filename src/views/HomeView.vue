@@ -18,14 +18,14 @@ export default {
 
 <style>
 .foto {
-  height: 20%;
-  width: 20%;
+  height: 30%;
+  width: 30%;
   border-radius: 50%;
 }
 
 .logo {
-  height: 70%;
-  width: 70%;  
+  height: 100%;
+  width: 100%;    
 }
 
 </style>
