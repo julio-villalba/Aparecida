@@ -1,11 +1,8 @@
 <template>
-  <div class="home"> 
-    <div>
-      <img class="foto" src="../assets/foto.jpg" />
-    </div> 
-    <div>
-      <img class="logo" src="../assets/logo.png" />
-    </div>
+  <div class="home">    
+    <img class="foto" src="../assets/foto.jpg" />
+    <h1>Aparecida Miranda</h1>
+    <h2>Psicóloga</h2>        
   </div>
 </template>
 
@@ -18,14 +15,9 @@ export default {
 
 <style>
 .foto {
-  height: 30%;
-  width: 30%;
+  height: 38%;
+  width: 38%;
   border-radius: 50%;
-}
-
-.logo {
-  height: 100%;
-  width: 100%;    
 }
 
 </style>

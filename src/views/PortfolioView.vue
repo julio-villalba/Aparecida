@@ -1,7 +1,8 @@
 <template>
   <div class="portfolio">        
     <h1>Aparecida Miranda</h1> 
-    <h2>Pedagoga e Psicóloga Clínica e Esportiva</h2>
+    <h2>Pedagoga</h2>
+    <h2>Psicóloga Clínica e Esportiva</h2>
     <h2> CRP 05/42778</h2>
     <ul class="lista-portfolio">      
       <li class="item-lista-portfolio">
