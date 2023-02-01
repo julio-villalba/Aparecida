@@ -1,6 +1,6 @@
 <template>
   <div class="home">    
-    <img class="foto" src="../assets/foto.jpg" />
+    <img class="foto" src="../assets/foto2.jpg" />
     <h1>Aparecida Miranda</h1>
     <h2>Psicóloga</h2>        
   </div>
