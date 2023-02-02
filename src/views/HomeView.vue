@@ -4,7 +4,8 @@
     <div class="page-title">
       <div>
         <h1>Aparecida Miranda</h1>
-        <h2>Psicóloga</h2>
+        <h3>Psicóloga Clínica e Esportiva</h3>
+        <h3>CRP 05/42778</h3>
       </div>
       <div class="line"></div>
     </div>
@@ -14,10 +15,10 @@
       <h2>Sobre</h2>          
       <ul class="lista-portfolio">
         <li class="item-lista-portfolio">
-          Psicóloga Clínica e Esportiva - CRP 05/42778.
+          Graduada em Psicologia pela UVA.
         </li>
         <li class="item-lista-portfolio">
-          Pedagoga.
+          Graduada em Pedagogia pelo UNIFESO.
         </li>
         <li class="item-lista-portfolio">
           Especialista em Psicoterapia de Família e Casal pela PUC-RJ.
@@ -131,6 +132,12 @@ h1 {
 h2 {
   color: beige;
   font-weight: bolder;
+}
+
+h3 {
+  color: beige;
+  font-weight: bolder;
+  font-size: medium;
 }
 
 p {
