@@ -98,9 +98,12 @@
             <a href="#" ><i class="fa-brands fa-linkedin fa-2xl"></i></a>
           </li> -->
         </ul>
+        <br>
       </div>
     </div>
-    <div class="line"></div>
+    <div class="line2">
+      <p class="copyright">© 2023 Aparecida Miranda - All Rights Reserved</p>
+    </div>
   </div>
 </template>
 
@@ -188,6 +191,11 @@ a {
   background: #000 url("../assets/h.png") repeat top center;
 }
 
+.line2 {
+  height: 50px;
+  background: #000 url("../assets/n.png") repeat top center;
+}
+
 .footer {
   /* height: 80px;
   width: 100%;
@@ -208,4 +216,11 @@ li {
   font-size: x-large;
   color: beige;
 }
+
+.copyright {
+  color: beige;
+  font-size: small;
+  padding: 20px;
+}
+
 </style>
