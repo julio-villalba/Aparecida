@@ -72,9 +72,9 @@
           Como adquirir:
         </strong>
       </p>
-      <p><a href="https://www.gruponovoseculo.com.br/index.php?route=product/product&product_id=2239&search=filha+de+onelia" target="_blank" rel="www.gruponovoseculo.com.br">www.gruponovoseculo.com.br</a>.</p>
-      <p><a href="https://www.amazon.com.br/Filha-On%C3%A9lia-vis%C3%A3o-mulher-contemporaneidade/dp/6555614331/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZK9E61019M8I&keywords=a+filha+de+onelia&qid=1672317321&sprefix=a+filha+de+oneli%2Caps%2C281&sr=8-1" target="_blank" rel="www.amazon.com.br">www.amazon.com.br</a>.</p>
-      <p><a href="https://linktr.ee/aparecidamiranda" target="_blank" rel="linktr">linktr.ee</a>.</p>
+      <p><a href="https://www.gruponovoseculo.com.br/index.php?route=product/product&product_id=2239&search=filha+de+onelia" target="_blank" rel="www.gruponovoseculo.com.br">www.gruponovoseculo.com.br</a></p>
+      <p><a href="https://www.amazon.com.br/Filha-On%C3%A9lia-vis%C3%A3o-mulher-contemporaneidade/dp/6555614331/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZK9E61019M8I&keywords=a+filha+de+onelia&qid=1672317321&sprefix=a+filha+de+oneli%2Caps%2C281&sr=8-1" target="_blank" rel="www.amazon.com.br">www.amazon.com.br</a></p>
+      <p><a href="https://linktr.ee/aparecidamiranda" target="_blank" rel="linktr">linktr.ee</a></p>
       <br>
     </div>
     <div class="line"></div>
