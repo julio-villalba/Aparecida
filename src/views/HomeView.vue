@@ -219,9 +219,8 @@ li {
 
 .copyright {
   color: beige;
-  font-size: small;
+  font-size: 8pt;
   padding: 20px;
-  text-align: left;
 }
 
 </style>
