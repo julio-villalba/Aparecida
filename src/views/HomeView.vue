@@ -221,6 +221,7 @@ li {
   color: beige;
   font-size: small;
   padding: 20px;
+  text-align: left;
 }
 
 </style>
