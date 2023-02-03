@@ -21,7 +21,7 @@
           Graduada em Pedagogia pelo UNIFESO.
         </li>
         <li class="item-lista-portfolio">
-          Especialista em Psicoterapia de Família e Casal pela PUC-RJ.
+          Especialista em Psicoterapia de Família e Casal pela PUC-Rio.
         </li>
         <li class="item-lista-portfolio">
           Especialista em Psicologia e Neurociências do Esporte pelo IBMR / Laureate International
@@ -45,6 +45,9 @@
         <li class="item-lista-portfolio">
           Trabalha com atletas de alto rendimento de diversas modalidades, desde
           2010.
+        </li>
+        <li class="item-lista-portfolio">
+          Atendimento Individual, Casal e Família
         </li>
       </ul>
     </div>
