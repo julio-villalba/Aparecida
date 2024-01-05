@@ -102,7 +102,7 @@
       </div>
     </div>
     <div class="line2">
-      <p class="copyright">© 2023 Aparecida Miranda - All Rights Reserved</p>
+      <p class="copyright">© 2024 Aparecida Miranda - All Rights Reserved</p>
     </div>
   </div>
 </template>
